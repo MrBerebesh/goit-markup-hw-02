@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.icon {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+.info {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.contacts-info {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+}
+.info-footer {
+    font-weight: 400;
+}
